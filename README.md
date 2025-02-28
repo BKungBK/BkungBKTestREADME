@@ -7,7 +7,7 @@
     💼 Unity Game dev • Platform Engineer
     💻 Python languages • C#
     🎮 Music • Games • Anime • Code • Art
-    🐾 Cat 😺 • Cake & Cookie & Milk & Coffee 🐤🐥
+    🐾 Cat 😺 • Cake & Cookie & Milk & Coffee ☕
 </pre>
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/8c/12/99/8c129910e0e8129955cba9b8cb233785.jpg"  />
