@@ -4,10 +4,12 @@
 ###
 <div align="center">
 <pre>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
     💼 Unity Game dev • Platform Engineer
     💻 Python languages • C#
     🎮 Music • Games • Anime • Code • Art
     🐾 Cat 😺 • Cake & Cookie & Milk & Coffee ☕
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </pre>
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/8c/12/99/8c129910e0e8129955cba9b8cb233785.jpg"  />
